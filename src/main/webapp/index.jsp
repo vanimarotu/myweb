@@ -1,5 +1,5 @@
 <html>
   <body>
-    <h1>GOOD MORNING HELLO TODAY WE USING THE WEBHOOK IN ONCE COMMITED THE CODE FROM GIT HUB AND AFTER AUTOMATICALLY BUILD AND DEPLOYED THE APPLICATIONS  <h1>
+    <h1>GOOD MORNING we deployed web applications <h1>
       </body>
       </html>
